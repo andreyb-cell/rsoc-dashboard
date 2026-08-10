@@ -1,0 +1,961 @@
+{
+  "2026-05": {
+    "total_revenue": 535620.91,
+    "total_cost": 466472.95,
+    "total_profit": 69147.95,
+    "subverticals": {
+      "Нерухомість": {
+        "cost": 102440.59,
+        "revenue": 124535.42,
+        "profit": 22094.83,
+        "conversions": 211229,
+        "roi": 21.57,
+        "cpa": 0.48,
+        "payout": 0.59,
+        "share": 23.25
+      },
+      "Автомобілі": {
+        "cost": 81494.96,
+        "revenue": 92106.69,
+        "profit": 10611.73,
+        "conversions": 237178,
+        "roi": 13.02,
+        "cpa": 0.34,
+        "payout": 0.39,
+        "share": 17.2
+      },
+      "Різне": {
+        "cost": 68537.12,
+        "revenue": 72796.07,
+        "profit": 4258.95,
+        "conversions": 166110,
+        "roi": 6.21,
+        "cpa": 0.41,
+        "payout": 0.44,
+        "share": 13.59
+      },
+      "Е-коммерс": {
+        "cost": 58053.37,
+        "revenue": 69057.51,
+        "profit": 11004.14,
+        "conversions": 143621,
+        "roi": 18.96,
+        "cpa": 0.4,
+        "payout": 0.48,
+        "share": 12.89
+      },
+      "Хвороби": {
+        "cost": 56823.92,
+        "revenue": 62998.82,
+        "profit": 6174.89,
+        "conversions": 98448,
+        "roi": 10.87,
+        "cpa": 0.58,
+        "payout": 0.64,
+        "share": 11.76
+      },
+      "Хоум сервіс": {
+        "cost": 40569.27,
+        "revenue": 46856.34,
+        "profit": 6287.07,
+        "conversions": 64105,
+        "roi": 15.5,
+        "cpa": 0.63,
+        "payout": 0.73,
+        "share": 8.75
+      },
+      "Хелс процедури": {
+        "cost": 27949.72,
+        "revenue": 32810.9,
+        "profit": 4861.17,
+        "conversions": 55554,
+        "roi": 17.39,
+        "cpa": 0.5,
+        "payout": 0.59,
+        "share": 6.13
+      },
+      "Послуги": {
+        "cost": 12464.16,
+        "revenue": 13959.44,
+        "profit": 1495.29,
+        "conversions": 17059,
+        "roi": 12.0,
+        "cpa": 0.73,
+        "payout": 0.82,
+        "share": 2.61
+      },
+      "Соціальні пільги": {
+        "cost": 8587.93,
+        "revenue": 9908.31,
+        "profit": 1320.38,
+        "conversions": 14829,
+        "roi": 15.37,
+        "cpa": 0.58,
+        "payout": 0.67,
+        "share": 1.85
+      },
+      "Фінанси": {
+        "cost": 8424.55,
+        "revenue": 9435.61,
+        "profit": 1011.06,
+        "conversions": 12093,
+        "roi": 12.0,
+        "cpa": 0.7,
+        "payout": 0.78,
+        "share": 1.76
+      },
+      "Ліки": {
+        "cost": 967.15,
+        "revenue": 1013.39,
+        "profit": 46.24,
+        "conversions": 1924,
+        "roi": 4.78,
+        "cpa": 0.5,
+        "payout": 0.53,
+        "share": 0.19
+      },
+      "Робота": {
+        "cost": 142.67,
+        "revenue": 141.0,
+        "profit": -1.67,
+        "conversions": 339,
+        "roi": -1.17,
+        "cpa": 0.42,
+        "payout": 0.42,
+        "share": 0.03
+      },
+      "Курси": {
+        "cost": 17.54,
+        "revenue": 1.41,
+        "profit": -16.13,
+        "conversions": 8,
+        "roi": -91.96,
+        "cpa": 2.19,
+        "payout": 0.18,
+        "share": 0.0
+      }
+    }
+  },
+  "2026-07": {
+    "total_revenue": 426897.76,
+    "total_cost": 397564.4,
+    "total_profit": 29333.36,
+    "subverticals": {
+      "Різне": {
+        "cost": 124141.26,
+        "revenue": 133889.39,
+        "profit": 9748.12,
+        "conversions": 314430,
+        "roi": 7.85,
+        "cpa": 0.39,
+        "payout": 0.43,
+        "share": 31.36
+      },
+      "Нерухомість": {
+        "cost": 73957.91,
+        "revenue": 79474.92,
+        "profit": 5517.01,
+        "conversions": 174907,
+        "roi": 7.46,
+        "cpa": 0.42,
+        "payout": 0.45,
+        "share": 18.62
+      },
+      "Автомобілі": {
+        "cost": 61657.96,
+        "revenue": 62486.62,
+        "profit": 828.66,
+        "conversions": 130653,
+        "roi": 1.34,
+        "cpa": 0.47,
+        "payout": 0.48,
+        "share": 14.64
+      },
+      "Е-коммерс": {
+        "cost": 40300.38,
+        "revenue": 45593.63,
+        "profit": 5293.26,
+        "conversions": 119537,
+        "roi": 13.13,
+        "cpa": 0.34,
+        "payout": 0.38,
+        "share": 10.68
+      },
+      "Хвороби": {
+        "cost": 35058.4,
+        "revenue": 38035.8,
+        "profit": 2977.4,
+        "conversions": 76358,
+        "roi": 8.49,
+        "cpa": 0.46,
+        "payout": 0.5,
+        "share": 8.91
+      },
+      "Хоум сервіс": {
+        "cost": 29779.5,
+        "revenue": 31536.28,
+        "profit": 1756.78,
+        "conversions": 70195,
+        "roi": 5.9,
+        "cpa": 0.42,
+        "payout": 0.45,
+        "share": 7.39
+      },
+      "Хелс процедури": {
+        "cost": 21115.42,
+        "revenue": 23507.08,
+        "profit": 2391.66,
+        "conversions": 39392,
+        "roi": 11.33,
+        "cpa": 0.54,
+        "payout": 0.6,
+        "share": 5.51
+      },
+      "Послуги": {
+        "cost": 4021.55,
+        "revenue": 4085.12,
+        "profit": 63.57,
+        "conversions": 7132,
+        "roi": 1.58,
+        "cpa": 0.56,
+        "payout": 0.57,
+        "share": 0.96
+      },
+      "Фінанси": {
+        "cost": 3338.96,
+        "revenue": 3309.96,
+        "profit": -28.99,
+        "conversions": 5310,
+        "roi": -0.87,
+        "cpa": 0.63,
+        "payout": 0.62,
+        "share": 0.78
+      },
+      "Соціальні пільги": {
+        "cost": 2227.05,
+        "revenue": 2962.46,
+        "profit": 735.41,
+        "conversions": 7841,
+        "roi": 33.02,
+        "cpa": 0.28,
+        "payout": 0.38,
+        "share": 0.69
+      },
+      "Ліки": {
+        "cost": 1606.28,
+        "revenue": 1644.68,
+        "profit": 38.4,
+        "conversions": 3188,
+        "roi": 2.39,
+        "cpa": 0.5,
+        "payout": 0.52,
+        "share": 0.39
+      },
+      "Курси": {
+        "cost": 347.45,
+        "revenue": 371.81,
+        "profit": 24.36,
+        "conversions": 527,
+        "roi": 7.01,
+        "cpa": 0.66,
+        "payout": 0.71,
+        "share": 0.09
+      },
+      "Робота": {
+        "cost": 12.28,
+        "revenue": 0.0,
+        "profit": -12.28,
+        "conversions": 0,
+        "roi": -100.0,
+        "cpa": 0.0,
+        "payout": 0.0,
+        "share": 0.0
+      }
+    }
+  },
+  "2026-06": {
+    "total_revenue": 303390.16,
+    "total_cost": 267917.48,
+    "total_profit": 35472.67,
+    "subverticals": {
+      "Нерухомість": {
+        "cost": 58217.86,
+        "revenue": 73603.71,
+        "profit": 15385.86,
+        "conversions": 136182,
+        "roi": 26.43,
+        "cpa": 0.43,
+        "payout": 0.54,
+        "share": 24.26
+      },
+      "Різне": {
+        "cost": 59599.08,
+        "revenue": 64614.17,
+        "profit": 5015.09,
+        "conversions": 131730,
+        "roi": 8.41,
+        "cpa": 0.45,
+        "payout": 0.49,
+        "share": 21.3
+      },
+      "Автомобілі": {
+        "cost": 54097.41,
+        "revenue": 60514.0,
+        "profit": 6416.59,
+        "conversions": 117991,
+        "roi": 11.86,
+        "cpa": 0.46,
+        "payout": 0.51,
+        "share": 19.95
+      },
+      "Е-коммерс": {
+        "cost": 30752.63,
+        "revenue": 34480.32,
+        "profit": 3727.69,
+        "conversions": 81504,
+        "roi": 12.12,
+        "cpa": 0.38,
+        "payout": 0.42,
+        "share": 11.37
+      },
+      "Хоум сервіс": {
+        "cost": 21309.93,
+        "revenue": 22922.5,
+        "profit": 1612.57,
+        "conversions": 39331,
+        "roi": 7.57,
+        "cpa": 0.54,
+        "payout": 0.58,
+        "share": 7.56
+      },
+      "Хелс процедури": {
+        "cost": 17915.09,
+        "revenue": 19861.55,
+        "profit": 1946.46,
+        "conversions": 37891,
+        "roi": 10.86,
+        "cpa": 0.47,
+        "payout": 0.52,
+        "share": 6.55
+      },
+      "Хвороби": {
+        "cost": 14746.22,
+        "revenue": 15627.63,
+        "profit": 881.4,
+        "conversions": 31476,
+        "roi": 5.98,
+        "cpa": 0.47,
+        "payout": 0.5,
+        "share": 5.15
+      },
+      "Послуги": {
+        "cost": 5522.06,
+        "revenue": 5890.36,
+        "profit": 368.3,
+        "conversions": 9178,
+        "roi": 6.67,
+        "cpa": 0.6,
+        "payout": 0.64,
+        "share": 1.94
+      },
+      "Фінанси": {
+        "cost": 3865.07,
+        "revenue": 3958.75,
+        "profit": 93.68,
+        "conversions": 6033,
+        "roi": 2.42,
+        "cpa": 0.64,
+        "payout": 0.66,
+        "share": 1.3
+      },
+      "Соціальні пільги": {
+        "cost": 1056.65,
+        "revenue": 1101.07,
+        "profit": 44.42,
+        "conversions": 3060,
+        "roi": 4.2,
+        "cpa": 0.35,
+        "payout": 0.36,
+        "share": 0.36
+      },
+      "Ліки": {
+        "cost": 755.25,
+        "revenue": 735.5,
+        "profit": -19.75,
+        "conversions": 1249,
+        "roi": -2.61,
+        "cpa": 0.6,
+        "payout": 0.59,
+        "share": 0.24
+      },
+      "Курси": {
+        "cost": 53.95,
+        "revenue": 73.73,
+        "profit": 19.78,
+        "conversions": 97,
+        "roi": 36.67,
+        "cpa": 0.56,
+        "payout": 0.76,
+        "share": 0.02
+      },
+      "Робота": {
+        "cost": 26.28,
+        "revenue": 6.86,
+        "profit": -19.42,
+        "conversions": 22,
+        "roi": -73.91,
+        "cpa": 1.19,
+        "payout": 0.31,
+        "share": 0.0
+      }
+    }
+  },
+  "2026-01": {
+    "total_revenue": 495198.28,
+    "total_cost": 365576.03,
+    "total_profit": 129622.26,
+    "subverticals": {
+      "Різне": {
+        "cost": 95023.22,
+        "revenue": 115529.08,
+        "profit": 20505.85,
+        "conversions": 254333,
+        "roi": 21.58,
+        "cpa": 0.37,
+        "payout": 0.45,
+        "share": 23.33
+      },
+      "Нерухомість": {
+        "cost": 54434.26,
+        "revenue": 91294.17,
+        "profit": 36859.91,
+        "conversions": 170509,
+        "roi": 67.71,
+        "cpa": 0.32,
+        "payout": 0.54,
+        "share": 18.44
+      },
+      "Хелс процедури": {
+        "cost": 47787.06,
+        "revenue": 68150.35,
+        "profit": 20363.29,
+        "conversions": 82404,
+        "roi": 42.61,
+        "cpa": 0.58,
+        "payout": 0.83,
+        "share": 13.76
+      },
+      "Автомобілі": {
+        "cost": 41750.58,
+        "revenue": 58035.42,
+        "profit": 16284.85,
+        "conversions": 123768,
+        "roi": 39.01,
+        "cpa": 0.34,
+        "payout": 0.47,
+        "share": 11.72
+      },
+      "Хвороби": {
+        "cost": 39624.92,
+        "revenue": 49677.8,
+        "profit": 10052.88,
+        "conversions": 109110,
+        "roi": 25.37,
+        "cpa": 0.36,
+        "payout": 0.46,
+        "share": 10.03
+      },
+      "Е-коммерс": {
+        "cost": 37903.72,
+        "revenue": 46990.28,
+        "profit": 9086.56,
+        "conversions": 127584,
+        "roi": 23.97,
+        "cpa": 0.3,
+        "payout": 0.37,
+        "share": 9.49
+      },
+      "Хоум сервіс": {
+        "cost": 22730.25,
+        "revenue": 28516.91,
+        "profit": 5786.67,
+        "conversions": 54937,
+        "roi": 25.46,
+        "cpa": 0.41,
+        "payout": 0.52,
+        "share": 5.76
+      },
+      "Послуги": {
+        "cost": 10313.98,
+        "revenue": 16396.89,
+        "profit": 6082.91,
+        "conversions": 20558,
+        "roi": 58.98,
+        "cpa": 0.5,
+        "payout": 0.8,
+        "share": 3.31
+      },
+      "Соціальні пільги": {
+        "cost": 6917.77,
+        "revenue": 8968.96,
+        "profit": 2051.19,
+        "conversions": 16735,
+        "roi": 29.65,
+        "cpa": 0.41,
+        "payout": 0.54,
+        "share": 1.81
+      },
+      "Фінанси": {
+        "cost": 6766.69,
+        "revenue": 8709.2,
+        "profit": 1942.51,
+        "conversions": 13131,
+        "roi": 28.71,
+        "cpa": 0.52,
+        "payout": 0.66,
+        "share": 1.76
+      },
+      "Ліки": {
+        "cost": 1610.37,
+        "revenue": 2188.32,
+        "profit": 577.96,
+        "conversions": 2833,
+        "roi": 35.89,
+        "cpa": 0.57,
+        "payout": 0.77,
+        "share": 0.44
+      },
+      "Робота": {
+        "cost": 687.63,
+        "revenue": 737.87,
+        "profit": 50.23,
+        "conversions": 2605,
+        "roi": 7.3,
+        "cpa": 0.26,
+        "payout": 0.28,
+        "share": 0.15
+      },
+      "Курси": {
+        "cost": 25.58,
+        "revenue": 3.03,
+        "profit": -22.55,
+        "conversions": 13,
+        "roi": -88.17,
+        "cpa": 1.97,
+        "payout": 0.23,
+        "share": 0.0
+      }
+    }
+  },
+  "2026-02": {
+    "total_revenue": 355834.0,
+    "total_cost": 280148.36,
+    "total_profit": 75685.63,
+    "subverticals": {
+      "Різне": {
+        "cost": 71905.77,
+        "revenue": 80792.79,
+        "profit": 8887.02,
+        "conversions": 240733,
+        "roi": 12.36,
+        "cpa": 0.3,
+        "payout": 0.34,
+        "share": 22.71
+      },
+      "Нерухомість": {
+        "cost": 37487.25,
+        "revenue": 62709.58,
+        "profit": 25222.33,
+        "conversions": 121093,
+        "roi": 67.28,
+        "cpa": 0.31,
+        "payout": 0.52,
+        "share": 17.62
+      },
+      "Хвороби": {
+        "cost": 37246.24,
+        "revenue": 45822.63,
+        "profit": 8576.38,
+        "conversions": 82173,
+        "roi": 23.03,
+        "cpa": 0.45,
+        "payout": 0.56,
+        "share": 12.88
+      },
+      "Автомобілі": {
+        "cost": 30195.08,
+        "revenue": 42934.68,
+        "profit": 12739.59,
+        "conversions": 103358,
+        "roi": 42.19,
+        "cpa": 0.29,
+        "payout": 0.42,
+        "share": 12.07
+      },
+      "Е-коммерс": {
+        "cost": 28367.65,
+        "revenue": 33090.25,
+        "profit": 4722.6,
+        "conversions": 92493,
+        "roi": 16.65,
+        "cpa": 0.31,
+        "payout": 0.36,
+        "share": 9.3
+      },
+      "Хелс процедури": {
+        "cost": 22505.65,
+        "revenue": 28037.99,
+        "profit": 5532.34,
+        "conversions": 41373,
+        "roi": 24.58,
+        "cpa": 0.54,
+        "payout": 0.68,
+        "share": 7.88
+      },
+      "Хоум сервіс": {
+        "cost": 23232.74,
+        "revenue": 27473.62,
+        "profit": 4240.88,
+        "conversions": 51908,
+        "roi": 18.25,
+        "cpa": 0.45,
+        "payout": 0.53,
+        "share": 7.72
+      },
+      "Фінанси": {
+        "cost": 13522.19,
+        "revenue": 15113.75,
+        "profit": 1591.57,
+        "conversions": 52401,
+        "roi": 11.77,
+        "cpa": 0.26,
+        "payout": 0.29,
+        "share": 4.25
+      },
+      "Послуги": {
+        "cost": 7572.39,
+        "revenue": 9841.0,
+        "profit": 2268.61,
+        "conversions": 12112,
+        "roi": 29.96,
+        "cpa": 0.63,
+        "payout": 0.81,
+        "share": 2.77
+      },
+      "Соціальні пільги": {
+        "cost": 7373.67,
+        "revenue": 9134.25,
+        "profit": 1760.57,
+        "conversions": 16378,
+        "roi": 23.88,
+        "cpa": 0.45,
+        "payout": 0.56,
+        "share": 2.57
+      },
+      "Ліки": {
+        "cost": 583.98,
+        "revenue": 736.22,
+        "profit": 152.24,
+        "conversions": 1296,
+        "roi": 26.07,
+        "cpa": 0.45,
+        "payout": 0.57,
+        "share": 0.21
+      },
+      "Робота": {
+        "cost": 146.05,
+        "revenue": 145.61,
+        "profit": -0.43,
+        "conversions": 424,
+        "roi": -0.3,
+        "cpa": 0.34,
+        "payout": 0.34,
+        "share": 0.04
+      },
+      "Курси": {
+        "cost": 9.7,
+        "revenue": 1.63,
+        "profit": -8.07,
+        "conversions": 7,
+        "roi": -83.24,
+        "cpa": 1.39,
+        "payout": 0.23,
+        "share": 0.0
+      }
+    }
+  },
+  "2026-03": {
+    "total_revenue": 440859.79,
+    "total_cost": 358825.26,
+    "total_profit": 82034.54,
+    "subverticals": {
+      "Різне": {
+        "cost": 76469.74,
+        "revenue": 86294.0,
+        "profit": 9824.26,
+        "conversions": 260396,
+        "roi": 12.85,
+        "cpa": 0.29,
+        "payout": 0.33,
+        "share": 19.57
+      },
+      "Автомобілі": {
+        "cost": 64889.78,
+        "revenue": 85717.13,
+        "profit": 20827.35,
+        "conversions": 169626,
+        "roi": 32.1,
+        "cpa": 0.38,
+        "payout": 0.51,
+        "share": 19.44
+      },
+      "Нерухомість": {
+        "cost": 46906.57,
+        "revenue": 67472.1,
+        "profit": 20565.53,
+        "conversions": 124956,
+        "roi": 43.84,
+        "cpa": 0.38,
+        "payout": 0.54,
+        "share": 15.3
+      },
+      "Хвороби": {
+        "cost": 40385.5,
+        "revenue": 46419.94,
+        "profit": 6034.43,
+        "conversions": 77534,
+        "roi": 14.94,
+        "cpa": 0.52,
+        "payout": 0.6,
+        "share": 10.53
+      },
+      "Е-коммерс": {
+        "cost": 36654.12,
+        "revenue": 42640.26,
+        "profit": 5986.14,
+        "conversions": 123401,
+        "roi": 16.33,
+        "cpa": 0.3,
+        "payout": 0.35,
+        "share": 9.67
+      },
+      "Хоум сервіс": {
+        "cost": 28262.79,
+        "revenue": 33768.53,
+        "profit": 5505.73,
+        "conversions": 69953,
+        "roi": 19.48,
+        "cpa": 0.4,
+        "payout": 0.48,
+        "share": 7.66
+      },
+      "Хелс процедури": {
+        "cost": 23581.2,
+        "revenue": 28167.25,
+        "profit": 4586.05,
+        "conversions": 43985,
+        "roi": 19.45,
+        "cpa": 0.54,
+        "payout": 0.64,
+        "share": 6.39
+      },
+      "Фінанси": {
+        "cost": 14925.48,
+        "revenue": 17335.07,
+        "profit": 2409.58,
+        "conversions": 47551,
+        "roi": 16.14,
+        "cpa": 0.31,
+        "payout": 0.36,
+        "share": 3.93
+      },
+      "Послуги": {
+        "cost": 13636.02,
+        "revenue": 16804.92,
+        "profit": 3168.9,
+        "conversions": 15256,
+        "roi": 23.24,
+        "cpa": 0.89,
+        "payout": 1.1,
+        "share": 3.81
+      },
+      "Соціальні пільги": {
+        "cost": 10671.74,
+        "revenue": 13280.67,
+        "profit": 2608.93,
+        "conversions": 17603,
+        "roi": 24.45,
+        "cpa": 0.61,
+        "payout": 0.75,
+        "share": 3.01
+      },
+      "Ліки": {
+        "cost": 1541.05,
+        "revenue": 1992.15,
+        "profit": 451.1,
+        "conversions": 3057,
+        "roi": 29.27,
+        "cpa": 0.5,
+        "payout": 0.65,
+        "share": 0.45
+      },
+      "Робота": {
+        "cost": 888.06,
+        "revenue": 963.68,
+        "profit": 75.63,
+        "conversions": 2465,
+        "roi": 8.52,
+        "cpa": 0.36,
+        "payout": 0.39,
+        "share": 0.22
+      },
+      "Курси": {
+        "cost": 13.21,
+        "revenue": 4.12,
+        "profit": -9.09,
+        "conversions": 13,
+        "roi": -68.83,
+        "cpa": 1.02,
+        "payout": 0.32,
+        "share": 0.0
+      }
+    }
+  },
+  "2026-04": {
+    "total_revenue": 456994.23,
+    "total_cost": 387420.47,
+    "total_profit": 69573.76,
+    "subverticals": {
+      "Нерухомість": {
+        "cost": 68420.23,
+        "revenue": 81452.24,
+        "profit": 13032.01,
+        "conversions": 150895,
+        "roi": 19.05,
+        "cpa": 0.45,
+        "payout": 0.54,
+        "share": 17.82
+      },
+      "Автомобілі": {
+        "cost": 66439.38,
+        "revenue": 79315.94,
+        "profit": 12876.56,
+        "conversions": 145965,
+        "roi": 19.38,
+        "cpa": 0.46,
+        "payout": 0.54,
+        "share": 17.36
+      },
+      "Різне": {
+        "cost": 70254.1,
+        "revenue": 77310.1,
+        "profit": 7056.0,
+        "conversions": 201068,
+        "roi": 10.04,
+        "cpa": 0.35,
+        "payout": 0.38,
+        "share": 16.92
+      },
+      "Хвороби": {
+        "cost": 47400.96,
+        "revenue": 56341.46,
+        "profit": 8940.5,
+        "conversions": 86981,
+        "roi": 18.86,
+        "cpa": 0.54,
+        "payout": 0.65,
+        "share": 12.33
+      },
+      "Е-коммерс": {
+        "cost": 39787.16,
+        "revenue": 47858.62,
+        "profit": 8071.46,
+        "conversions": 111790,
+        "roi": 20.29,
+        "cpa": 0.36,
+        "payout": 0.43,
+        "share": 10.47
+      },
+      "Хелс процедури": {
+        "cost": 35061.89,
+        "revenue": 42331.37,
+        "profit": 7269.48,
+        "conversions": 59459,
+        "roi": 20.73,
+        "cpa": 0.59,
+        "payout": 0.71,
+        "share": 9.26
+      },
+      "Хоум сервіс": {
+        "cost": 26415.79,
+        "revenue": 32254.35,
+        "profit": 5838.56,
+        "conversions": 51377,
+        "roi": 22.1,
+        "cpa": 0.51,
+        "payout": 0.63,
+        "share": 7.06
+      },
+      "Соціальні пільги": {
+        "cost": 12895.08,
+        "revenue": 15445.99,
+        "profit": 2550.91,
+        "conversions": 19757,
+        "roi": 19.78,
+        "cpa": 0.65,
+        "payout": 0.78,
+        "share": 3.38
+      },
+      "Послуги": {
+        "cost": 11347.34,
+        "revenue": 13421.61,
+        "profit": 2074.27,
+        "conversions": 16620,
+        "roi": 18.28,
+        "cpa": 0.68,
+        "payout": 0.81,
+        "share": 2.94
+      },
+      "Фінанси": {
+        "cost": 8047.25,
+        "revenue": 9566.99,
+        "profit": 1519.73,
+        "conversions": 11563,
+        "roi": 18.89,
+        "cpa": 0.7,
+        "payout": 0.83,
+        "share": 2.09
+      },
+      "Ліки": {
+        "cost": 981.48,
+        "revenue": 1255.47,
+        "profit": 273.99,
+        "conversions": 2036,
+        "roi": 27.92,
+        "cpa": 0.48,
+        "payout": 0.62,
+        "share": 0.27
+      },
+      "Робота": {
+        "cost": 369.81,
+        "revenue": 440.1,
+        "profit": 70.29,
+        "conversions": 870,
+        "roi": 19.01,
+        "cpa": 0.43,
+        "payout": 0.51,
+        "share": 0.1
+      },
+      "Курси": {
+        "cost": 0.0,
+        "revenue": 0.0,
+        "profit": 0.0,
+        "conversions": 0,
+        "roi": 0.0,
+        "cpa": 0.0,
+        "payout": 0.0,
+        "share": 0.0
+      }
+    }
+  }
+}
