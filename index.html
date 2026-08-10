@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RSOC Subverticals Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <script type="module" crossorigin src="./assets/index-DJ3-4xCO.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-C-j7RjUH.css">
+</head>
+<body>
+  <div class="dashboard-container">
+    <header class="header">
+      <div class="logo">
+        <h1>RSOC Analytics</h1>
+      <div class="tabs">
+        <button class="tab-button active" data-tab="monthly">Monthly Overview</button>
+        <button class="tab-button" data-tab="domains">Domain Analytics</button>
+        <button class="tab-button" data-tab="offers">Offers Analytics</button>
+        <button class="tab-button" data-tab="buyers">Buyers Analytics</button>
+      </div>
+    </header>
+
+    <main class="main-content">
+      <!-- MONTHLY TAB -->
+      <div id="monthly-tab" class="tab-pane active">
+        <div class="controls monthly-controls">
+          <label for="month-select">Select Month:</label>
+          <select id="month-select"></select>
+        </div>
+        
+        <section class="kpi-grid">
+        <div class="kpi-card glass">
+          <h3>Total Revenue</h3>
+          <p id="kpi-revenue" class="kpi-value">$0.00</p>
+          <div class="kpi-mom" id="mom-revenue">--%</div>
+        </div>
+        <div class="kpi-card glass">
+          <h3>Total Cost</h3>
+          <p id="kpi-cost" class="kpi-value">$0.00</p>
+          <div class="kpi-mom" id="mom-cost">--%</div>
+        </div>
+        <div class="kpi-card glass">
+          <h3>Total Profit</h3>
+          <p id="kpi-profit" class="kpi-value">$0.00</p>
+          <div class="kpi-mom" id="mom-profit">--%</div>
+        </div>
+      </section>
+
+      <section class="charts-section">
+        <div class="table-container glass">
+          <h3>Subvertical Breakdown</h3>
+          <div class="table-wrapper">
+            <table id="data-table">
+              <thead>
+                <tr>
+                  <th>Підвертикаль</th>
+                  <th>Кост ($)</th>
+                  <th>Ревеню ($)</th>
+                  <th>Профіт ($)</th>
+                  <th>ROI (%)</th>
+                  <th>CPA ($)</th>
+                  <th>Dyn.Payout ($)</th>
+                  <th>Доля (%)</th>
+                  <th>Динаміка Ревеню</th>
+                </tr>
+              </thead>
+              <tbody>
+                <!-- Rows injected via JS -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="chart-container glass">
+          <h3>Revenue Share by Subvertical</h3>
+          <div class="canvas-wrapper">
+            <canvas id="shareChart"></canvas>
+          </div>
+        </div>
+        
+        <div class="chart-container glass" style="grid-column: 1 / -1;">
+          <div class="controls trends-controls" style="margin-bottom: 1rem;">
+            <label for="trend-subvertical">Revenue Share Trend (%) for Subvertical:</label>
+            <select id="trend-subvertical"></select>
+          </div>
+          <div class="canvas-wrapper">
+            <canvas id="trendChart"></canvas>
+          </div>
+        </div>
+
+        </section>
+      </div> <!-- END MONTHLY TAB -->
+
+      <!-- DOMAINS TAB -->
+      <div id="domains-tab" class="tab-pane">
+        <div class="controls domains-controls">
+          <label for="domain-month-select">Select Month:</label>
+          <select id="domain-month-select"></select>
+        </div>
+        <section class="domains-section">
+          <div class="table-container glass">
+            <h3>Domain Analytics Breakdown</h3>
+            <div class="table-wrapper">
+              <table id="domains-table">
+                <thead>
+                  <tr>
+                    <th>Домен</th>
+                    <th>Візити</th>
+                    <th>Кост ($)</th>
+                    <th>Ревеню ($)</th>
+                    <th>Профіт ($)</th>
+                    <th>ROI (%)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- Rows injected via JS -->
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="chart-container glass" style="margin-top: 1.5rem;">
+            <h3>Domain ROI Trend (Top 5 by Revenue)</h3>
+            <div class="canvas-wrapper">
+              <canvas id="domainTrendChart"></canvas>
+            </div>
+          </div>
+          <div class="table-container glass" style="margin-top: 1.5rem;">
+            <h3>Offer Domains Analytics</h3>
+            <div class="table-wrapper">
+              <table id="offer-domains-table">
+                <thead>
+                  <tr>
+                    <th>Домен Офера</th>
+                    <th>Візити</th>
+                    <th>Кост ($)</th>
+                    <th>Ревеню ($)</th>
+                    <th>Профіт ($)</th>
+                    <th>ROI (%)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- Rows injected via JS -->
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="chart-container glass" style="margin-top: 1.5rem;">
+            <h3>Offer Domains ROI Trend</h3>
+            <div style="margin-bottom: 1rem; max-height: 120px; overflow-y: auto; background: rgba(0,0,0,0.2); padding: 0.8rem; border-radius: 4px; border: 1px solid rgba(255,255,255,0.1);" id="offer-domains-checkboxes">
+              <!-- Checkboxes injected via JS -->
+            </div>
+            <div class="canvas-wrapper">
+              <canvas id="offerDomainTrendChart"></canvas>
+            </div>
+          </div>
+        </section>
+      </div> <!-- END DOMAINS TAB -->
+
+      <!-- OFFERS TAB -->
+      <div id="offers-tab" class="tab-pane">
+        <div class="controls offers-controls" style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
+          <div>
+            <label for="offer-month-select">Select Month:</label>
+            <select id="offer-month-select"></select>
+          </div>
+        </div>
+        <section class="offers-section" style="display: flex; flex-direction: column; gap: 1.5rem;">
+          <div class="table-container glass">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+              <h3 style="margin: 0;">Traffic Sources Analytics</h3>
+              <div>
+                <label for="filter-partner-ts" style="font-size: 0.9rem; margin-right: 0.5rem;">Filter by Partner:</label>
+                <select id="filter-partner-ts" style="font-size: 0.9rem; padding: 0.2rem 0.5rem;"><option value="all">All</option></select>
+              </div>
+            </div>
+            <div class="table-wrapper">
+              <table id="traffic-sources-table">
+                <thead>
+                  <tr>
+                    <th>Трафік Сорс</th>
+                    <th>Візити</th>
+                    <th>Кост ($)</th>
+                    <th>Ревеню ($)</th>
+                    <th>Профіт ($)</th>
+                    <th>ROI (%)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="table-container glass">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+              <h3 style="margin: 0;">Partners (Affiliate Networks) Analytics</h3>
+              <div>
+                <label for="filter-ts-partner" style="font-size: 0.9rem; margin-right: 0.5rem;">Filter by Traffic Source:</label>
+                <select id="filter-ts-partner" style="font-size: 0.9rem; padding: 0.2rem 0.5rem;"><option value="all">All</option></select>
+              </div>
+            </div>
+            <div class="table-wrapper">
+              <table id="partners-table">
+                <thead>
+                  <tr>
+                    <th>Партнерка</th>
+                    <th>Візити</th>
+                    <th>Кост ($)</th>
+                    <th>Ревеню ($)</th>
+                    <th>Профіт ($)</th>
+                    <th>ROI (%)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+      </div> <!-- END OFFERS TAB -->
+
+      <!-- BUYERS TAB -->
+      <div id="buyers-tab" class="tab-pane">
+        <div class="controls buyers-controls" style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
+          <div>
+            <label for="buyer-month-select">Select Month:</label>
+            <select id="buyer-month-select"></select>
+          </div>
+          <div>
+            <label for="filter-ts-buyer">Traffic Source:</label>
+            <select id="filter-ts-buyer"><option value="all">All</option></select>
+          </div>
+          <div>
+            <label for="filter-partner-buyer">Partner:</label>
+            <select id="filter-partner-buyer"><option value="all">All</option></select>
+          </div>
+        </div>
+        <section class="buyers-section">
+          <div class="table-container glass">
+            <h3>Buyers Performance</h3>
+            <div class="table-wrapper">
+              <table id="buyers-table">
+                <thead>
+                  <tr>
+                    <th>Баєр (Buyer)</th>
+                    <th>Візити</th>
+                    <th>Кост ($)</th>
+                    <th>Ревеню ($)</th>
+                    <th>Профіт ($)</th>
+                    <th>ROI (%)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+      </div> <!-- END BUYERS TAB -->
+    </main>
+  </div>
+
+</body>
+</html>
