@@ -1,0 +1,170 @@
+{
+  "2026-01": {
+    "domains": {
+      "flarequick.com": {
+        "cost": 257389.28,
+        "revenue": 350362.09,
+        "profit": 92972.81,
+        "visits": 2293421,
+        "roi": 36.12
+      },
+      "track.igtsmts.space": {
+        "cost": 108595.01,
+        "revenue": 144867.83,
+        "profit": 36272.82,
+        "visits": 878678,
+        "roi": 33.4
+      }
+    }
+  },
+  "2026-02": {
+    "domains": {
+      "flarequick.com": {
+        "cost": 204041.3,
+        "revenue": 263542.72,
+        "profit": 59501.42,
+        "visits": 2150027,
+        "roi": 29.16
+      },
+      "track.igtsmts.space": {
+        "cost": 76529.59,
+        "revenue": 92458.62,
+        "profit": 15929.03,
+        "visits": 575018,
+        "roi": 20.81
+      },
+      "trk.gengavox.com": {
+        "cost": 96.26,
+        "revenue": 26.17,
+        "profit": -70.09,
+        "visits": 2004,
+        "roi": -72.81
+      }
+    }
+  },
+  "2026-03": {
+    "domains": {
+      "flarequick.com": {
+        "cost": 268784.03,
+        "revenue": 333744.07,
+        "profit": 64960.04,
+        "visits": 2560597,
+        "roi": 24.17
+      },
+      "track.igtsmts.space": {
+        "cost": 89363.15,
+        "revenue": 106629.4,
+        "profit": 17266.25,
+        "visits": 621136,
+        "roi": 19.32
+      },
+      "trk.gengavox.com": {
+        "cost": 1196.85,
+        "revenue": 589.84,
+        "profit": -607.01,
+        "visits": 50556,
+        "roi": -50.72
+      }
+    }
+  },
+  "2026-04": {
+    "domains": {
+      "flarequick.com": {
+        "cost": 275814.54,
+        "revenue": 321309.54,
+        "profit": 45495.0,
+        "visits": 2284399,
+        "roi": 16.49
+      },
+      "track.igtsmts.space": {
+        "cost": 112048.11,
+        "revenue": 136089.52,
+        "profit": 24041.41,
+        "visits": 888321,
+        "roi": 21.46
+      },
+      "trk.gengavox.com": {
+        "cost": 425.8,
+        "revenue": 280.32,
+        "profit": -145.48,
+        "visits": 12086,
+        "roi": -34.17
+      }
+    }
+  },
+  "2026-05": {
+    "domains": {
+      "flarequick.com": {
+        "cost": 305000.72,
+        "revenue": 343581.74,
+        "profit": 38581.02,
+        "visits": 2269177,
+        "roi": 12.65
+      },
+      "track.igtsmts.space": {
+        "cost": 162545.96,
+        "revenue": 193025.07,
+        "profit": 30479.11,
+        "visits": 1172393,
+        "roi": 18.75
+      },
+      "trk.gengavox.com": {
+        "cost": 256.79,
+        "revenue": 115.42,
+        "profit": -141.37,
+        "visits": 1439,
+        "roi": -55.05
+      }
+    }
+  },
+  "2026-06": {
+    "domains": {
+      "flarequick.com": {
+        "cost": 153682.47,
+        "revenue": 169312.65,
+        "profit": 15630.18,
+        "visits": 1358582,
+        "roi": 10.17
+      },
+      "track.igtsmts.space": {
+        "cost": 114469.97,
+        "revenue": 134150.87,
+        "profit": 19680.91,
+        "visits": 948648,
+        "roi": 17.19
+      }
+    }
+  },
+  "2026-07": {
+    "domains": {
+      "flarequick.com": {
+        "cost": 249168.19,
+        "revenue": 261623.77,
+        "profit": 12455.58,
+        "visits": 2398347,
+        "roi": 5.0
+      },
+      "track.igtsmts.space": {
+        "cost": 146279.21,
+        "revenue": 163038.92,
+        "profit": 16759.71,
+        "visits": 1273266,
+        "roi": 11.46
+      },
+      "trk.gengavox.com": {
+        "cost": 1783.07,
+        "revenue": 1923.81,
+        "profit": 140.73,
+        "visits": 31180,
+        "roi": 7.89
+      },
+      "track.find-answer.com": {
+        "cost": 390.8,
+        "revenue": 311.27,
+        "profit": -79.53,
+        "visits": 3688,
+        "roi": -20.35
+      }
+    }
+  }
+}
