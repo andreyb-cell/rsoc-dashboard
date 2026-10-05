@@ -166,5 +166,76 @@
         "roi": -20.35
       }
     }
+  },
+  "2026-08": {
+    "domains": {
+      "track.igtsmts.space": {
+        "cost": 169889.14,
+        "revenue": 194598.54,
+        "profit": 24709.4,
+        "visits": 1719971,
+        "roi": 14.54
+      },
+      "flarequick.com": {
+        "cost": 153472.08,
+        "revenue": 173423.81,
+        "profit": 19951.73,
+        "visits": 1770547,
+        "roi": 13.0
+      },
+      "track.find-answer.com": {
+        "cost": 48884.54,
+        "revenue": 55170.78,
+        "profit": 6286.24,
+        "visits": 371893,
+        "roi": 12.86
+      },
+      "trk.gengavox.com": {
+        "cost": 220.19,
+        "revenue": 173.43,
+        "profit": -46.76,
+        "visits": 4804,
+        "roi": -21.24
+      }
+    }
+  },
+  "2026-09": {
+    "domains": {
+      "track.igtsmts.space": {
+        "cost": 330959.91,
+        "revenue": 402791.12,
+        "profit": 71831.22,
+        "visits": 4300325,
+        "roi": 21.7
+      },
+      "track.find-answer.com": {
+        "cost": 236726.52,
+        "revenue": 285823.86,
+        "profit": 49097.34,
+        "visits": 2495553,
+        "roi": 20.74
+      },
+      "flarequick.com": {
+        "cost": 75218.21,
+        "revenue": 89505.49,
+        "profit": 14287.27,
+        "visits": 1020155,
+        "roi": 18.99
+      },
+      "happylane.top": {
+        "cost": 4289.3,
+        "revenue": 5490.28,
+        "profit": 1200.98,
+        "visits": 37851,
+        "roi": 28.0
+      },
+      "trk.gengavox.com": {
+        "cost": 971.54,
+        "revenue": 869.49,
+        "profit": -102.05,
+        "visits": 12451,
+        "roi": -10.5
+      }
+    }
   }
 }
