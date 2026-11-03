@@ -237,5 +237,44 @@
         "roi": -10.5
       }
     }
+  },
+  "2026-10": {
+    "domains": {
+      "track.igtsmts.space": {
+        "cost": 643711.08,
+        "revenue": 783571.7,
+        "profit": 139860.62,
+        "visits": 8972534,
+        "roi": 21.73
+      },
+      "track.find-answer.com": {
+        "cost": 403532.29,
+        "revenue": 477969.84,
+        "profit": 74437.55,
+        "visits": 4060275,
+        "roi": 18.45
+      },
+      "flarequick.com": {
+        "cost": 27359.43,
+        "revenue": 31460.15,
+        "profit": 4100.72,
+        "visits": 367814,
+        "roi": 14.99
+      },
+      "happylane.top": {
+        "cost": 3559.34,
+        "revenue": 4238.68,
+        "profit": 679.34,
+        "visits": 36726,
+        "roi": 19.09
+      },
+      "trk.gengavox.com": {
+        "cost": 323.32,
+        "revenue": 288.21,
+        "profit": -35.1,
+        "visits": 6513,
+        "roi": -10.86
+      }
+    }
   }
 }
